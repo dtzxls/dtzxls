@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-stats-extended.app/api?username=dtzxls)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtzxls)](https://github.com/stats-organization/github-stats-extended)
 
 ##
 
