@@ -10,6 +10,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="gif" src="https://tenor.com/pt-BR/view/cat-cat-licking-licking-lick-memes-gif-12784464284293067435">
+  <div class="tenor-gif-embed" data-postid="12784464284293067435" data-share-method="host" data-aspect-ratio="0.566265" data-width="100%"><a href="https://tenor.com/view/cat-cat-licking-licking-lick-memes-gif-12784464284293067435">Cat Cat Licking GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ##
