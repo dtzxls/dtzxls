@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=dtzxls)](https://github.com/stats-organization/github-stats-extended)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dtzxls&langs_count=4)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dtzxls&langs_count=4) 
 
 ##
 
